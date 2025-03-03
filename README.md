@@ -21,6 +21,13 @@
 
 ✨ ZenQuotes API (Fetching Motivational Quotes)
 
+📌 *Pinned Projects*  
+- 📜 Quote App  
+A simple Quote App that displays random motivational quotes.  
+
+🔗 [GitHub Repository](https://github.com/Faizan5079/Quote-app)  
+📱 Built With: Android (Kotlin/Java) | Jetpack Compose/XML | ZenQuotes API  
+
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faizan-ali5079)  
 [![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:faizanali5079@gmail.com)
