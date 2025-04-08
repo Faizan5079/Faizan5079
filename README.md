@@ -1,36 +1,66 @@
-# Hi there, I'm Faizan Ali 👋  
+# 👋 Hi, I'm Faizan Ali  
 
-🚀 *About Me*  
-- 🎓 BTech CSE (2nd Year) Student  
-- 💡 Passionate about Android Development, AI, and Startups    
-- 📫 Reach me at faizanali5079@gmail.com
+🚀 *Aspiring Developer | Tech Enthusiast | Startup Explorer*  
 
-💻 Tech Stack
+---
 
-📱 Mobile Development
-🚀 Android Development (Kotlin, Java)
-📦 Jetpack Compose & XML UI
+## 👨‍💻 About Me  
+- 🎓 BTech CSE | 2nd Year Student  
+- 💡 Passionate about **Android Development**, **AI Integration**, and **Startup Culture**  
+- 🧠 Always learning something new — currently diving deep into **Android Development**, **Backend with Python (FastAPI/Flask)**, and **AI agents**  
+- 🏆 Hackathon Enthusiast – Participated in **Code-E Manipal** with team **HackHunt**  
+- 💬 Let’s collaborate on cool apps, AI projects, or startup ideas!
 
-🔗 API Integration & JSON Handling
+📫 Reach me: **faizanali5079@gmail.com**
 
-🛠 Dependency Injection (Dagger Hilt, Koin)
+---
 
-🌍 RESTful APIs (Retrofit, OkHttp)
+## 💻 Tech Stack  
 
-📝 JSON Parsing (Gson, Moshi)
+### 📱 Mobile Development  
+- Kotlin | Java | Jetpack Compose | XML UI  
+- Dependency Injection: Dagger Hilt | Koin  
+- API Integration: Retrofit | OkHttp  
+- JSON Parsing: Gson | Moshi  
 
-✨ ZenQuotes API (Fetching Motivational Quotes)
+---
 
-📌 *Pinned Projects*  
-- 📜 Quote App  
-A simple Quote App that displays random motivational quotes.  
+### 🚀 Tools & Services  
+- Git | GitHub | Postman | VS Code | Android Studio  
+- OpenAI/Gemini API | Weather APIs  
 
-🔗 [GitHub Repository](https://github.com/Faizan5079/Quote-app)  
-📱 Built With: Android (Kotlin/Java) | Jetpack Compose/XML | ZenQuotes API  
+---
 
-## 📫 Let's Connect!  
+## 📌 Pinned Projects  
+
+### 🤖 Chat Bot App  
+> An intelligent chatbot powered by **Gemini API** that interacts with users in real-time.  
+> Built for seamless conversation, idea generation, and personal AI assistant experience.  
+📱 **Tech Stack**: Kotlin, Android Studio, Jetpack Compose, Gemini API  
+🔗 **[View GitHub Repo](https://github.com/Faizan5079)** *(Add the repo link once available)*
+
+---
+
+### 🌦 Weather App  
+> A modern weather app that fetches real-time weather data for any location.  
+> Displays temperature, humidity, and conditions with a clean UI.  
+📱 **Tech Stack**: Kotlin, Retrofit, OpenWeatherMap API  
+🔗 **[View GitHub Repo](https://github.com/Faizan5079)** *(Add the repo link once available)*
+
+---
+
+## 📈 GitHub Stats  
+
+![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizan5079&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan5079&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect!  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faizan-ali5079)  
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:faizanali5079@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:faizanali5079@gmail.com)
 
-📈 *GitHub Stats*  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizan5079&show_icons=true&theme=dark)
+---
+
+> “Code with curiosity. Build with purpose.” 🚀
