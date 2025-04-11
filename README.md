@@ -37,7 +37,6 @@
 > An intelligent chatbot powered by **Gemini API** that interacts with users in real-time.  
 > Built for seamless conversation, idea generation, and personal AI assistant experience.  
 📱 **Tech Stack**: Kotlin, Android Studio, Jetpack Compose, Gemini API  
-🔗 **[View GitHub Repo](https://github.com/Faizan5079)** *(Add the repo link once available)*
 
 ---
 
@@ -45,7 +44,6 @@
 > A modern weather app that fetches real-time weather data for any location.  
 > Displays temperature, humidity, and conditions with a clean UI.  
 📱 **Tech Stack**: Kotlin, Retrofit, OpenWeatherMap API  
-🔗 **[View GitHub Repo](https://github.com/Faizan5079)** *(Add the repo link once available)*
 
 ---
 
