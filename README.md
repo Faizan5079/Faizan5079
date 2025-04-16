@@ -1,71 +1,82 @@
-<h1 align="center">Hey there, I'm [Your Name]!</h1>
-<p align="center"><i>Crafting code, chasing dreams, and building things that matter.</i></p>
+<h1 align="center">Hi, I'm [Your Name] — aka @yourusername</h1>
+<p align="center">
+  🚀 Android Developer | 💡 Tech Explorer | 🎯 Startup Enthusiast | 🧠 AI Integrator  
+</p>
 
 ---
 
-### 🧠 About Me:
+## 🚀 About Me
 
-- 🔧 Currently building: **Health Habit Tracker with AI Insights** (Kotlin + Firebase + FastAPI)
-- 🚀 Mission: Use tech to solve real-world problems in **smart farming**, **health**, and **space tech**
-- 🛠️ Passionate about: **Android Development**, **AI-powered apps**, and **hackathons**
-- ✨ Believer in: Clean UI, scalable backend, and the power of caffeine
-- 📚 Always learning: Cloud Functions, AI APIs, and React Native
+Hey there! I'm a passionate **B.Tech CSE** student with a love for **building apps**, solving real-world problems, and experimenting with **AI-powered tech**. Whether it’s a hackathon or a personal side project, I’m all about turning ideas into working products.  
 
----
-
-### ⚙️ Tech Arsenal:
-
-**Languages & Frameworks**  
-`Kotlin` `Java` `Python` `HTML` `CSS` `JS` `TypeScript`  
-`Flask` `FastAPI` `React` `Node.js` `Firebase`  
-
-**Tools & Platforms**  
-`Android Studio` `VS Code` `GitHub` `Postman` `SQLite` `Firebase Firestore` `Docker`
+Currently working on:
+- **Health Habit Tracker App** with AI insights  
+- **Meme Generator App** for some serious laughs  
+- Exploring startup ideas in **smart farming** and **e-commerce**
 
 ---
 
-### 🚀 Current Focus Areas:
+## 🧠 Skills & Tech Stack
 
-- **AI + Mobile Integration**: Building real-time intelligent features inside mobile apps
-- **Hackathons**: Leading creative ideas to MVP under pressure  
-- **Entrepreneurship**: Turning projects into products and products into startups  
-- **Smart Solutions**: Creating tech for farmers, students, and dreamers
+### 💼 Tech Toolkit: My Superpowers
 
----
+#### 🚀 Programming Languages  
+`Kotlin` `Java` `Python` `HTML` `CSS` `JavaScript` `TypeScript`
 
-### 🛸 Featured Projects:
+#### 📱 Mobile Development  
+`Android Studio` `Jetpack Compose` `Firebase Auth/DB` `Push Notifications` `Responsive UI`
 
-- **Health Habit Tracker**: AI-powered lifestyle insights with gamification  
-- **Deep Space Mining**: ML + image analysis to detect asteroid resources  
-- **RoomRental App**: Firebase-powered app to connect tenants & landlords  
-- **MemeApp & To-Do App**: Fun + productivity with a clean Android UI
+#### 🌐 Web Development  
+`ReactJS` `Node.js` `TailwindCSS` `FastAPI` `Flask` `Firebase Hosting`
 
----
+#### 🧠 AI & ML Projects  
+`Flask ML APIs` `Image Processing` `Prediction Models` `Data Analysis (CSV/JSON)`
 
-### 🎖 Hackathon Highlights:
+#### 🧰 Tools & Platforms  
+`Git & GitHub` `VS Code` `Postman` `Firebase` `SQLite` `Docker`
 
-| Hackathon             | Role              | Tech Stack                     |
-|-----------------------|-------------------|-------------------------------|
-| Code-E Manipal (2025) | Backend Developer | Flask, ML, API Integration    |
-| SmartAgri Hack 2.0    | Team Lead         | Firebase, ML, Android         |
-| SpaceTech Sprint      | Full Stack Dev    | FastAPI, SQLite, AI + Image ML|
+#### 🧩 Soft Skills  
+`Leadership` `Time Management` `Team Collaboration` `Creative Problem Solving` `Hackathon Experience`
 
 ---
 
-### 📊 GitHub Stats (aka proof I don’t sleep):
+## 🛠️ My Projects
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="48%" />
+### 1. **Health Habit Tracker with AI**  
+_Tracks water intake, sleep, screen time, activity, and predicts bad habit risks using ML models._  
+Tech: Kotlin, Firebase, FastAPI, SQLite, ML  
+**[GitHub Repo](#)**
+
+### 2. **Meme Generator App**  
+_Generate and share memes instantly using AI-generated captions._  
+Tech: Kotlin, Public API  
+**[GitHub Repo](#)**
+
+### 3. **Deep Space Mining (Hackathon)**  
+_Analyzes asteroid data and predicts human feasibility using image + chemical data analysis._  
+Tech: Flask, SQLite, ML, Firebase  
+**[GitHub Repo](#)**
 
 ---
 
-### 📡 Connect With Me:
+## 🏆 Achievements & Hackathons
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-informational?style=for-the-badge)](https://your-portfolio.com)
+- Participated in **Code-E Manipal Hackathon**
+- Built the backend for a **Deep Space Mining** project using Flask + ML
+- Team: **HackHunt**  
+- Leader in upcoming hackathons with problem statements revealed live
 
 ---
 
-<p align="center"><i>"Code like poetry – clean, expressive, and powerful."</i></p>
+## 📫 Let’s Connect
+
+- LinkedIn: [linkedin.com/in/yourprofile](#)
+- GitHub: [github.com/yourusername](#)
+- Portfolio: [yourwebsite.com](#) _(If available)_
+- Email: [youremail@gmail.com](#)
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>[Your Name]</strong>
+</p>
