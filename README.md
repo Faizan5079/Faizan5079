@@ -1,59 +1,71 @@
-<h1 align="center">Hey, I'm Faizan Ali!</h1>
-<p align="center">A passionate Android Developer and Tech Enthusiast from India</p>
+<h1 align="center">Hey there, I'm [Your Name]!</h1>
+<p align="center"><i>Crafting code, chasing dreams, and building things that matter.</i></p>
 
 ---
 
-### ✨ About Me:
+### 🧠 About Me:
 
-- 👨‍💻 I’m currently working on Android, AI, and Web Development projects.
-- 🤝 I’m looking to collaborate on Smart Farming, AI Apps, and Tech Startups.
-- 💬 Ask me about Android Development, Firebase, Flask, FastAPI, and ML Integration.
-- 📫 How to reach me: **faizanali5079@gmail.com**
-- ⚡ Fun fact: I turn coffee into code!
-- 🐧 Linux Enthusiast & Hackathon Lover
-
-I enjoy building real-world applications, exploring new tech, and leading/participating in hackathons.
+- 🔧 Currently building: **Health Habit Tracker with AI Insights** (Kotlin + Firebase + FastAPI)
+- 🚀 Mission: Use tech to solve real-world problems in **smart farming**, **health**, and **space tech**
+- 🛠️ Passionate about: **Android Development**, **AI-powered apps**, and **hackathons**
+- ✨ Believer in: Clean UI, scalable backend, and the power of caffeine
+- 📚 Always learning: Cloud Functions, AI APIs, and React Native
 
 ---
 
-### 🌐 Socials:
+### ⚙️ Tech Arsenal:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/yourprofile)
+**Languages & Frameworks**  
+`Kotlin` `Java` `Python` `HTML` `CSS` `JS` `TypeScript`  
+`Flask` `FastAPI` `React` `Node.js` `Firebase`  
 
----
-
-### 💻 Tech Stack:
-
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white)
+**Tools & Platforms**  
+`Android Studio` `VS Code` `GitHub` `Postman` `SQLite` `Firebase Firestore` `Docker`
 
 ---
 
-### 📊 GitHub Stats:
+### 🚀 Current Focus Areas:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+- **AI + Mobile Integration**: Building real-time intelligent features inside mobile apps
+- **Hackathons**: Leading creative ideas to MVP under pressure  
+- **Entrepreneurship**: Turning projects into products and products into startups  
+- **Smart Solutions**: Creating tech for farmers, students, and dreamers
+
+---
+
+### 🛸 Featured Projects:
+
+- **Health Habit Tracker**: AI-powered lifestyle insights with gamification  
+- **Deep Space Mining**: ML + image analysis to detect asteroid resources  
+- **RoomRental App**: Firebase-powered app to connect tenants & landlords  
+- **MemeApp & To-Do App**: Fun + productivity with a clean Android UI
 
 ---
 
-### 🔥 Hackathon Highlights:
+### 🎖 Hackathon Highlights:
 
-- Participated in Code-E Manipal (2025) as Backend Dev.
-- Working on projects like Health Habit Tracker, Deep Space Mining, and more!
+| Hackathon             | Role              | Tech Stack                     |
+|-----------------------|-------------------|-------------------------------|
+| Code-E Manipal (2025) | Backend Developer | Flask, ML, API Integration    |
+| SmartAgri Hack 2.0    | Team Lead         | Firebase, ML, Android         |
+| SpaceTech Sprint      | Full Stack Dev    | FastAPI, SQLite, AI + Image ML|
 
 ---
+
+### 📊 GitHub Stats (aka proof I don’t sleep):
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="48%" />
+
+---
+
+### 📡 Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-informational?style=for-the-badge)](https://your-portfolio.com)
+
+---
+
+<p align="center"><i>"Code like poetry – clean, expressive, and powerful."</i></p>
