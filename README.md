@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Md Faizan Ali — aka @Faizan5079</h1>
+<h1 align="center">Hi, I'm Faizan Ali — aka @Faizan5079</h1>
 <p align="center">
   🚀 Android Developer | 💡 Tech Explorer | 🎯 Startup Enthusiast | 🧠 AI Integrator  
 </p>
 
 <p align="center">
   <a href="https://github.com/Faizan5079/Faizan5079.git"><img src="https://img.shields.io/github/followers/mdfaisaldev?style=social" alt="GitHub Followers"></a>
-  <a href="mailto:faizanali5079@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"></a>
+  <a href="mailto: faizanali5079@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"></a>
   <a href="https://www.linkedin.com/in/faizan-ali-b12021294/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://faizanali.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge"></a>
 </p>
@@ -86,12 +86,12 @@ Currently working on:
 <p align="center">
   <a href="https://www.linkedin.com/in/faizan-ali-b12021294/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:faizanali5079@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Direct-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Faizan5079/Faizan5079.git"><img src="https://img.shields.io/badge/GitHub-Check_Profile-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Faizan5079"><img src="https://img.shields.io/badge/GitHub-Check_Profile-black?style=for-the-badge&logo=github"></a>
   <a href="https://faizanali.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
 ---
-
+ 
 <p align="center">
-  Made with ❤️ in Dark Mode by <strong>Faizan Ali</strong>
+  Crafted with ❤️ by <strong>Faizan Ali</strong>
 </p>
