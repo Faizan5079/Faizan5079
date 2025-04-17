@@ -6,10 +6,8 @@
 <p align="center">
   <a href="https://github.com/Faizan5079/Faizan5079.git"><img src="https://img.shields.io/github/followers/Faizan5079?style=social" alt="GitHub Followers"></a>
  <a href="mailto:faizanali5079@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge">
-</a>
-
-  <a href="https://www.linkedin.com/in/faizan-ali-b12021294/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"></a>
+<a href="https://www.linkedin.com/in/faizan-ali-b12021294/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://faizanali.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge"></a>
 </p>
 
