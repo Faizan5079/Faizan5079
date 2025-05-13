@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Faizan Ali — aka @Faizan5079</h1>
+<h1 align="center">Hi, I'm Faizan Ali — aka Devlii.tech</h1>
 <p align="center">
   🚀 Android Developer | 💡 Tech Explorer | 🎯 Startup Enthusiast | 🧠 AI Integrator  
 </p>
@@ -6,7 +6,7 @@
 <p align="center">
 
 <a href="https://github.com/Faizan5079">
-  <img src="https://profile-counter.glitch.me/Faizan5079/count.svg" alt="Visitor Count">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Faizan5079.Faizan5079&title=Profile%20Views" alt="Profile Views"/>
 </a>
 
 <a href="mailto:faizanali5079@gmail.com" target="_blank">
