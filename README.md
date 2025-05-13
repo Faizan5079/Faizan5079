@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Faizan Ali — aka Devlii.tech</h1>
 <p align="center">
-  🚀 Android Developer | 💡 Tech Explorer | 🎯 Startup Enthusiast | 🧠 AI Integrator  
+  🚀 Android Developer | 💡 Tech Explorer | 🎯 Startup Enthusiast  
 </p>
 
 <p align="center">
@@ -21,8 +21,7 @@
 
 Hey there! I'm a passionate **B.Tech CSE** student with a love for **building apps**, solving real-world problems, and experimenting with **Android Development**. Whether it’s a hackathon or a personal side project, I’m all about turning ideas into working products.  
 
-Currently working on:
-- **Health Habit Tracker App** with AI insights  
+Currently working on: 
 - **Meme Generator App** for some serious laughs  
 - Exploring startup ideas in **smart farming** and **e-commerce**
 
