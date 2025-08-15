@@ -1,5 +1,8 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm <span style="color:#ff4b2b;">Faizan Ali</span> — aka <a href="https://faizanali.vercel.app" target="_blank">Devlii.tech</a></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF4B2B&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Faizan+Ali;Android+Developer+%F0%9F%93%B1;Tech+Explorer+%F0%9F%92%A1;Startup+Enthusiast+%F0%9F%8E%AF" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   🚀 Android Developer • 💡 Tech Explorer • 🎯 Startup Enthusiast
 </p>
@@ -20,6 +23,15 @@
 🚀 **Current Focus:**
 - Building a **Meme Generator App** for some fun & laughs 😄  
 - Researching **smart farming** & **e-commerce** innovations  
+
+---
+
+## 🎉 Fun Facts
+- 🕒 I can spend hours debugging and still call it *fun*  
+- 🛠 Built my first app before my final year of college  
+- 🎯 My motto: *"Build fast, learn faster"*  
+- ☕ Runs on **coffee + code**  
+- 📱 Love experimenting with **UI/UX animations in Android apps**  
 
 ---
 
