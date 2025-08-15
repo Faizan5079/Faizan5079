@@ -95,7 +95,6 @@
 | 🛒 **ClosetCart** | Clothing **e-commerce** app with cart, favorites, orders | Kotlin, XML, Firebase |
 | 🌦 **Weather App** | Real-time weather, city search, **GPS location**, alerts | Kotlin, OpenWeatherMap |
 | 🖼 **Quote Poster** | Design quotes with custom fonts & placements | Kotlin, Canvas, Fonts |
-| 🍲 **Recipe App** | Suggests dishes from available ingredients + calories | Kotlin, Firebase |
 
 ---
 
