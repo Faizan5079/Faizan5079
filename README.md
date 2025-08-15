@@ -61,7 +61,7 @@
 
 ---
 
-## 🛠 Tech Stack (animated)
+## 🛠 Tech Stack 
 <p align="center">
   <!-- skillicons = crisp & responsive -->
   <img src="https://skillicons.dev/icons?i=kotlin,java,python,html,css,js,androidstudio,idea,gradle,git,github,firebase,vscode&perline=8" />
@@ -89,7 +89,7 @@
 
 ---
 
-## 🌟 Featured Projects (quick glance)
+## 🌟 Featured Projects
 | 🚀 Project | ⚙️ What it does | 🧩 Stack |
 |---|---|---|
 | 🛒 **ClosetCart** | Clothing **e-commerce** app with cart, favorites, orders | Kotlin, XML, Firebase |
@@ -98,7 +98,7 @@
 
 ---
 
-## 🎉 Fun Facts (animated header)
+## 🎉 Fun Facts
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2600&pause=1100&color=A259FF&multiline=true&repeat=true&width=800&height=80&lines=I+debug+for+fun+%F0%9F%98%8E;Coffee+%2B+Code+%3D+Flow+%E2%98%95%EF%B8%8F;Build+fast%2C+learn+faster+%E2%9C%A8" alt="Fun facts typing" />
 </p>
