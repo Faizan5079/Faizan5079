@@ -38,10 +38,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Faizan5079">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Faizan5079.Faizan5079&title=Profile%20Views" alt="Profile views badge"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Faizan5079&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 ---
 
@@ -84,8 +83,9 @@
 
 ## 🏅 Trophy Wall
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizan5079&theme=matrix&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizan5079&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" alt="trophy"/>
 </p>
+
 
 ---
 
