@@ -362,3 +362,370 @@ REST APIs • Authentication • JSON
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--                 FEATURED PROJECTS v2.0                    -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### A collection of projects that reflect my passion for **Mobile Development**, **Artificial Intelligence**, and **Problem Solving**.
+
+</div>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 EduBot AI
+
+**AI-powered educational assistant built with RAG and Gemini AI.**
+
+**✨ Features**
+- 📄 Multi PDF Upload
+- 🤖 AI Chat
+- 🧠 RAG Search
+- 📚 AI Summary
+- 🌐 Hindi & English
+
+**🛠 Stack**
+
+`Python` `Streamlit` `Gemini`
+`FAISS` `RAG`
+
+<a href="https://github.com/Faizan5079/edubot">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🛒 ClosetCart
+
+Modern eCommerce application with a clean shopping experience.
+
+**✨ Features**
+
+- 🛍 Shopping
+- ❤️ Wishlist
+- 🛒 Cart
+- 🔐 Authentication
+- ☁ Firebase
+
+**🛠 Stack**
+
+`Kotlin`
+`Compose`
+`Firebase`
+
+<a href="https://github.com/Faizan5079/Clothify-App">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌾 Krishi AI
+
+AI-powered farming assistant for crop guidance and smart agriculture.
+
+**✨ Features**
+
+- 🌱 Crop Detection
+- 🌦 Weather
+- 📈 Market Prices
+- 🤖 AI Assistant
+
+**🛠 Stack**
+
+`Flutter`
+`Firebase`
+`Gemini`
+
+<a href="https://github.com/Faizan5079/krishi_officer">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🌦 Weather App
+
+Real-time weather forecasting application.
+
+**✨ Features**
+
+- 🌍 Live Weather
+- 📍 Location
+- 🌡 Forecast
+- 📱 Material UI
+
+**🛠 Stack**
+
+`Kotlin`
+`REST API`
+
+<a href="https://github.com/Faizan5079/Weather-App">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 💬 ChatBot App
+
+Conversational AI chatbot application.
+
+**🛠 Stack**
+
+`Kotlin`
+`Gemini API`
+
+<a href="https://github.com/Faizan5079/Chat-Bot">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🌐 Portfolio Website
+
+My personal developer portfolio.
+
+**✨ Includes**
+
+- Responsive Design
+- Projects
+- Skills
+- Contact
+
+<a href="https://faizanali.vercel.app">
+<img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/Faizan5079/Portfolio">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📌 Other Projects
+
+<div align="center">
+
+| 🚀 Project | 🔗 Repository |
+|------------|---------------|
+| 😂 Meme App | [View Repository](https://github.com/Faizan5079/Meme-Vines) |
+| 💡 Quotes App | [View Repository](https://github.com/Faizan5079/Quotes-App) |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Every project is an opportunity to learn, improve, and create something meaningful.
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--                 GITHUB DASHBOARD v2.0                     -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+> *Building consistently. Learning continuously. Improving every day.*
+
+</div>
+
+---
+
+## 📈 GitHub Overview
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Faizan5079&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan5079&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Faizan5079&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan5079&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan5079&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=4"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Faizan5079/Faizan5079/output/github-contribution-grid-snake-dark.svg"/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Faizan5079/Faizan5079/output/github-contribution-grid-snake.svg"/>
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Faizan5079/Faizan5079/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+<div align="center">
+
+| 💻 Building | 🌱 Learning | 🎯 Goal |
+|-------------|-------------|----------|
+| Flutter Apps | AI Agents | Full Stack AI Engineer |
+| Android Apps | LangChain | Open Source Contributor |
+| AI Projects | System Design | Product Engineer |
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--                  CONNECT WITH ME                          -->
+<!-- ========================================================= -->
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<p>
+I'm always excited to collaborate on innovative projects, contribute to open source, and connect with developers around the world.
+</p>
+
+<a href="https://github.com/Faizan5079">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/faizan-ali5079">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://faizanali.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:faizanali5079@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Open For
+
+<div align="center">
+
+| 💡 Looking For | ✅ Status |
+|---------------|----------|
+| Flutter Internship | 🟢 Available |
+| Android Development | 🟢 Available |
+| Freelance Projects | 🟢 Available |
+| Open Source Collaboration | 🟢 Available |
+| AI & Backend Projects | 🟢 Available |
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"Build. Learn. Share. Repeat."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Faizan5079&style=for-the-badge&color=7F5AF0"/>
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+If you enjoy my work, consider following me and starring the repositories you find useful.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+### 🚀 Happy Coding!
+
+<a href="#top">
+<img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-6C63FF?style=for-the-badge"/>
+</a>
+
+</div>
