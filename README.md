@@ -90,24 +90,6 @@ Currently pursuing my **B.Tech in Computer Science Engineering** at **Bikaner Te
 
 </div>
 
----
-
-# 🧠 Fun Facts
-
-✨ I enjoy learning by building projects.
-
-✨ I believe consistency beats motivation.
-
-✨ I love modern UI/UX design.
-
-✨ AI is changing the future—and I want to build it.
-
-✨ I enjoy solving challenging development problems.
-
-✨ Every project teaches something new.
-
----
-
 # ⚡ Quote I Live By
 
 <div align="center">
