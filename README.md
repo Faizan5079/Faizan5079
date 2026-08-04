@@ -165,35 +165,7 @@ Currently pursuing my **B.Tech in Computer Science Engineering** at **Bikaner Te
 
 ## 👨‍💻 Hello, I'm Faizan Ali
 
-I'm a passionate **Full Stack Mobile App Developer** who loves building
-beautiful, scalable and AI-powered applications.
 
-I enjoy turning ideas into products using modern technologies.
-
-Currently, my primary focus is on becoming an **industry-ready Flutter Developer** while expanding my expertise in **Artificial Intelligence**, **Backend Development**, and **System Design**.
-
-I strongly believe in:
-
-✨ Continuous Learning
-
-🚀 Building Real Projects
-
-🤝 Open Source Contribution
-
-💡 Solving Real Problems
-
-🌍 Creating Products that Impact Millions
-
-</td>
-
-<td width="42%">
-
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%"/>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
