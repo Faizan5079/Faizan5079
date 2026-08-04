@@ -150,8 +150,6 @@ Currently pursuing my **B.Tech in Computer Science Engineering** at **Bikaner Te
 
 ---
 
-<!-- ================= END OF PART 1A ================= -->
-
 <!-- ======================================================= -->
 <!--                  PREMIUM ABOUT SECTION                  -->
 <!-- ======================================================= -->
@@ -464,60 +462,12 @@ I strongly believe in:
 
 ---
 
-# 🧭 My Development Workflow
-
-```text
-💡 Idea
-   │
-   ▼
-🎨 UI / UX Design
-   │
-   ▼
-📱 Flutter / Android Development
-   │
-   ▼
-⚙️ Backend API (Flask / FastAPI)
-   │
-   ▼
-🗄 Database (Firebase / Supabase)
-   │
-   ▼
-🧪 Testing
-   │
-   ▼
-🚀 Deployment
-```
-
----
-
-# 🎯 Current Learning Roadmap
-
-- 🟢 Flutter Advanced
-- 🟢 Clean Architecture
-- 🟢 AI Agents
-- 🟢 LangChain
-- 🟢 Backend APIs
-- 🟢 System Design
-- 🟢 Docker (Upcoming)
-- 🟢 CI/CD (Upcoming)
-
----
-
-<div align="center">
-
-### 🚀 *"The best way to predict the future is to build it."*
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:6C63FF"/>
 
 </div>
 
-<!-- ================= END PART 2 ================= -->
 <!-- ======================================================= -->
 <!--                 FEATURED PROJECTS                       -->
 <!-- ======================================================= -->
@@ -669,41 +619,7 @@ AI-powered farming assistant helping farmers with crop disease detection, weathe
 | 🌐 Portfolio Website | My personal portfolio website | [Repository](https://github.com/Faizan5079/Portfolio) |
 
 ---
-
-# 🧠 What These Projects Showcase
-
-<div align="center">
-
-| 💼 Skill | 🚀 Demonstrated Through |
-|-----------|------------------------|
-| Mobile Development | Flutter & Android Apps |
-| AI Integration | EduBot AI & Krishi AI |
-| Backend APIs | Flask & FastAPI |
-| Firebase | Authentication & Database |
-| UI/UX | Modern Material Design |
-| Problem Solving | Real-world Applications |
-| Git & GitHub | Version Control |
-| REST APIs | Weather, Meme & AI Apps |
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Every project represents a step toward becoming a World-Class Full Stack Mobile Developer & AI Engineer.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:00C9FF,100:7F5AF0"/>
-
-</div>
-
-<!-- ================= END PART 3 ================= --><!-- ======================================================= -->
+<!-- ======================================================= -->
 <!--                 GITHUB ANALYTICS                        -->
 <!-- ======================================================= -->
 
@@ -772,116 +688,6 @@ AI-powered farming assistant helping farmers with crop disease detection, weathe
 
 </div>
 
----
-
-## 💭 Developer Quote
-
-<div align="center">
-
-> **"Success in software isn't measured by the number of languages you know, but by the number of problems you can solve."**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00C9FF,50:6C63FF,100:7F5AF0"/>
-
-</div>
----
-
-# 📚 My Learning Philosophy
-
-> **Learn → Build → Fail → Improve → Repeat**
-
-I believe that real learning happens by building projects, experimenting with new technologies, and solving real-world problems rather than only consuming tutorials.
-
----
-
-# ⚡ Fun Developer Facts
-
-- 💻 I love building mobile apps that solve real problems.
-- 🤖 AI is my favorite area to explore.
-- 🌱 I enjoy learning by shipping projects.
-- 🚀 Every project teaches me something new.
-- ☕ Coffee + Music + Code = Productivity.
-
----
-
-# 🌌 Vision
-
-> **My mission is to become a world-class Full Stack Mobile Developer and AI Engineer by building products that positively impact millions of users around the world.**
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:00C9FF,100:7F5AF0"/>
-
-</div>
-
-<!-- ================= END PART 5 ================= -->
-<!-- ======================================================= -->
-<!--              LIVE DEVELOPER DASHBOARD                   -->
-<!-- ======================================================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-
-# ⚡ Live Developer Dashboard
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan5079&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizan5079&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizan5079&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizan5079&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizan5079&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 "Build products. Solve problems. Never stop learning."
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,50:6C63FF,100:7F5AF0"/>
-
-</div>
-
-
----
-
-## 🌍 Long-Term Vision
-
-> Build technology that reaches millions of users, combines AI with exceptional mobile experiences, and contributes meaningfully to the open-source community.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F5AF0,50:00C9FF,100:6C63FF"/>
-
-</div>
-
-<!-- ================= END PART 7 ================= -->
 <!-- ======================================================= -->
 <!--              CONNECT HUB & LIVE WIDGETS                 -->
 <!-- ======================================================= -->
@@ -912,38 +718,12 @@ I believe that real learning happens by building projects, experimenting with ne
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+<a href="mailto:faizanali5079@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
----
-
-# 💬 Random Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
-
----
-
-# 😂 Random Programming Joke
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</div
-
-# 🤝 Collaboration
-
-I'm interested in collaborating on:
-
-- 📱 Flutter Applications
-- 🤖 AI Projects
-- 🌐 Full Stack Apps
-- 📚 Open Source
-- 🚀 Startup Products
-
 ---
 
 # 💙 Thanks for Visiting!
