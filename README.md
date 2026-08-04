@@ -92,3 +92,131 @@ I'm a **Full Stack Mobile App Developer** passionate about building beautiful, s
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--                    ABOUT ME SECTION                       -->
+<!-- ========================================================= -->
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
+
+<table>
+
+<tr>
+
+<td width="60%">
+
+### 👨‍💻 Who Am I?
+
+I'm **Faizan Ali**, a passionate **Full Stack Mobile App Developer** focused on building scalable mobile applications and AI-powered solutions.
+
+I enjoy creating products that combine **beautiful UI**, **clean architecture**, and **real-world problem solving**.
+
+Currently pursuing **B.Tech in Computer Science Engineering** at **Bikaner Technical University** while continuously improving my skills through real-world projects.
+
+---
+
+### 🚀 Currently
+
+- 📱 Building Flutter Applications
+- 🤖 Learning AI Agents & LLMs
+- 🌐 Exploring Backend Development
+- 💼 Looking for Internship Opportunities
+- 🌍 Contributing to Open Source
+
+</td>
+
+<td width="40%" align="center">
+
+<img width="320" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## ⚡ Developer Snapshot
+
+<div align="center">
+
+| 💎 Category | 🚀 Details |
+|-------------|------------|
+| 👤 Name | **Faizan Ali** |
+| 💼 Role | Full Stack Mobile App Developer |
+| 🎓 Degree | B.Tech Computer Science Engineering |
+| 🏫 University | Bikaner Technical University |
+| 📍 Location | Rajasthan, India 🇮🇳 |
+| 📱 Specialization | Flutter • Android |
+| 🤖 AI | Gemini • LangChain • LLMs |
+| 🌐 Backend | Flask • FastAPI |
+| 🗄️ Database | Firebase • SQLite • Supabase |
+| 🎯 Career Goal | Full Stack Mobile Developer & AI Engineer |
+
+</div>
+
+---
+
+## ❤️ What Drives Me
+
+<table>
+
+<tr>
+
+<td>
+
+💡 Build products that solve real problems
+
+</td>
+
+<td>
+
+🚀 Learn something new every day
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🤝 Contribute to Open Source
+
+</td>
+
+<td>
+
+🎨 Create beautiful user experiences
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+📚 Continuous self-improvement
+
+</td>
+
+<td>
+
+🌍 Build products used by millions
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+> **"Code with purpose. Build with passion. Learn without limits."**
+
+</div>
+
+---
