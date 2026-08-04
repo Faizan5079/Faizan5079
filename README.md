@@ -62,45 +62,6 @@ I enjoy learning new technologies, contributing to open source, participating in
 
 Currently pursuing my **B.Tech in Computer Science Engineering** at **Bikaner Technical University**.
 
----
-
-## 🚀 Current Status
-
-- 🌱 Learning Flutter deeply
-- 🤖 Exploring AI Agents & LLMs
-- ⚡ Building Full Stack Mobile Apps
-- 📱 Android & Flutter Developer
-- 💻 Backend Development with Flask & FastAPI
-- 🚀 Looking for Internship Opportunities
-- 🌍 Open Source Contributor
-- ❤️ Love Clean UI/UX
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://faizanali.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Faizan5079">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/faizan-ali5079">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:faizanali@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
 # ⚡ Quick Highlights
 
 | 🚀 | Information |
@@ -116,40 +77,6 @@ Currently pursuing my **B.Tech in Computer Science Engineering** at **Bikaner Te
 | ❤️ Interests | AI • Mobile • UI/UX • Startups |
 | 🎯 Goal | World-Class Full Stack Mobile Developer & AI Engineer |
 
----
-
-# 💡 Developer Philosophy
-
-> **"Code is not just written to make software work; it's crafted to create experiences, solve problems, and inspire innovation."**
-
----
-
-<div align="center">
-
-## ⚡ "Dream • Build • Learn • Repeat"
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan5079&theme=algolia&row=1&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚙️ Building the next generation of Mobile & AI Applications
-
-<img src="https://user-images.githubusercontent.com/74038190/212750793-6f2f0dcb-c85b-4f0b-8d43-0d6d98b6f3f6.gif" width="900"/>
-
-</div>
-
-
----
 
 # ❤️ Things I Love
 
