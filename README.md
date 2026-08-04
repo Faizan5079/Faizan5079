@@ -220,3 +220,145 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Bikaner Techn
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--                    TECH STACK v2.0                        -->
+<!-- ========================================================= -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"/> Tech Stack
+
+<div align="center">
+
+### 💻 Technologies I use to build modern, scalable, and AI-powered applications.
+
+</div>
+
+---
+
+## 👨‍💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,dart"/>
+
+</p>
+
+---
+
+## 📱 Mobile Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase"/>
+
+</p>
+
+<div align="center">
+
+Jetpack Compose • XML • Material Design • MVVM
+
+</div>
+
+---
+
+## 🌐 Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
+
+</p>
+
+<div align="center">
+
+REST APIs • Authentication • JSON
+
+</div>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,supabase"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<div align="center">
+
+| Technology | Experience |
+|------------|------------|
+| Gemini API | ⭐⭐⭐⭐☆ |
+| LangChain | ⭐⭐⭐☆☆ |
+| LLM Applications | ⭐⭐⭐☆☆ |
+| Prompt Engineering | ⭐⭐⭐⭐☆ |
+| RAG | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+## 🛠 Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman"/>
+
+</p>
+
+---
+
+## ⚙️ Development Workflow
+
+```text
+💡 Idea
+   │
+   ▼
+🎨 UI / UX
+   │
+   ▼
+📱 Flutter / Android
+   │
+   ▼
+⚙️ Backend APIs
+   │
+   ▼
+🗄 Database
+   │
+   ▼
+🧪 Testing
+   │
+   ▼
+🚀 Deployment
+```
+
+---
+
+## 📈 Currently Learning
+
+<div align="center">
+
+| 🚀 Learning | Status |
+|-------------|--------|
+| Flutter Advanced | 🟢 |
+| AI Agents | 🟢 |
+| LangChain | 🟢 |
+| Backend Development | 🟢 |
+| System Design | 🟡 |
+| Docker | 🔵 Planned |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *The right tools don't build great software—great developers do.*
+
+</div>
+
+---
