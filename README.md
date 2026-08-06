@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--             FAIZAN ALI • GITHUB PROFILE v2.0             -->
+<!--             FAIZAN ALI • GITHUB PROFILE             -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -53,44 +53,6 @@
 </a>
 
 </div>
-
----
-
-<table>
-<tr>
-
-<td width="60%">
-
-## 💫 About Me
-
-I'm a **Full Stack Mobile App Developer** passionate about building beautiful, scalable, and AI-powered applications.
-
-- 📱 Flutter & Android Developer
-- 🤖 AI Enthusiast
-- 🌐 Backend with Flask & FastAPI
-- 🔥 Firebase & Supabase
-- 💡 Passionate about UI/UX
-- 🚀 Open to Internship & Open Source
-
-</td>
-
-<td width="40%" align="center">
-
-<img width="340" src="https://user-images.githubusercontent.com/74038190/212750793-6f2f0dcb-c85b-4f0b-8d43-0d6d98b6f3f6.gif"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### ⚡ *Building mobile experiences today while preparing for the AI-powered future.*
-
-</div>
-
 ---
 <!-- ========================================================= -->
 <!--                    ABOUT ME SECTION                       -->
@@ -134,6 +96,12 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Bikaner Techn
 
 </table>
 
+<div align="center">
+
+### ⚡ *Building mobile experiences today while preparing for the AI-powered future.*
+
+</div>
+
 ---
 
 ## ⚡ Developer Snapshot
@@ -154,74 +122,9 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Bikaner Techn
 | 🎯 Career Goal | Full Stack Mobile Developer & AI Engineer |
 
 </div>
-
----
-
-## ❤️ What Drives Me
-
-<table>
-
-<tr>
-
-<td>
-
-💡 Build products that solve real problems
-
-</td>
-
-<td>
-
-🚀 Learn something new every day
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🤝 Contribute to Open Source
-
-</td>
-
-<td>
-
-🎨 Create beautiful user experiences
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-📚 Continuous self-improvement
-
-</td>
-
-<td>
-
-🌍 Build products used by millions
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-> **"Code with purpose. Build with passion. Learn without limits."**
-
-</div>
-
 ---
 <!-- ========================================================= -->
-<!--                    TECH STACK v2.0                        -->
+<!--                    TECH STACK                         -->
 <!-- ========================================================= -->
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"/> Tech Stack
