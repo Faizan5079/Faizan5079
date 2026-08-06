@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 <a href="https://github.com/Faizan5079">
@@ -53,7 +51,7 @@
 </a>
 
 </div>
----
+
 <!-- ========================================================= -->
 <!--                    ABOUT ME SECTION                       -->
 <!-- ========================================================= -->
@@ -74,7 +72,6 @@ I enjoy creating products that combine **beautiful UI**, **clean architecture**,
 
 Currently pursuing **B.Tech in Computer Science Engineering** at **Bikaner Technical University** while continuously improving my skills through real-world projects.
 
----
 
 ### 🚀 Currently
 
@@ -102,8 +99,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Bikaner Techn
 
 </div>
 
----
-
 ## ⚡ Developer Snapshot
 
 <div align="center">
@@ -122,7 +117,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Bikaner Techn
 | 🎯 Career Goal | Full Stack Mobile Developer & AI Engineer |
 
 </div>
----
+
 <!-- ========================================================= -->
 <!--                    TECH STACK                         -->
 <!-- ========================================================= -->
@@ -213,60 +208,8 @@ REST APIs • Authentication • JSON
 
 </p>
 
----
-
-## ⚙️ Development Workflow
-
-```text
-💡 Idea
-   │
-   ▼
-🎨 UI / UX
-   │
-   ▼
-📱 Flutter / Android
-   │
-   ▼
-⚙️ Backend APIs
-   │
-   ▼
-🗄 Database
-   │
-   ▼
-🧪 Testing
-   │
-   ▼
-🚀 Deployment
-```
-
----
-
-## 📈 Currently Learning
-
-<div align="center">
-
-| 🚀 Learning | Status |
-|-------------|--------|
-| Flutter Advanced | 🟢 |
-| AI Agents | 🟢 |
-| LangChain | 🟢 |
-| Backend Development | 🟢 |
-| System Design | 🟡 |
-| Docker | 🔵 Planned |
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ *The right tools don't build great software—great developers do.*
-
-</div>
-
----
 <!-- ========================================================= -->
-<!--                 FEATURED PROJECTS v2.0                    -->
+<!--                 FEATURED PROJECTS                     -->
 <!-- ========================================================= -->
 
 # 🚀 Featured Projects
@@ -474,13 +417,18 @@ My personal developer portfolio.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Faizan5079&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Faizan5079&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan5079&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan5079&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
----
 
 ## 🔥 Contribution Streak
 
@@ -534,21 +482,6 @@ src="https://raw.githubusercontent.com/Faizan5079/Faizan5079/output/github-contr
 
 </div>
 
----
-
-## 🚀 Current Focus
-
-<div align="center">
-
-| 💻 Building | 🌱 Learning | 🎯 Goal |
-|-------------|-------------|----------|
-| Flutter Apps | AI Agents | Full Stack AI Engineer |
-| Android Apps | LangChain | Open Source Contributor |
-| AI Projects | System Design | Product Engineer |
-
-</div>
-
----
 <!-- ========================================================= -->
 <!--                  CONNECT WITH ME                          -->
 <!-- ========================================================= -->
