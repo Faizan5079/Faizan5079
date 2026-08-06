@@ -30,7 +30,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -130,7 +129,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Bikaner Techn
 
 </div>
 
----
 
 ## 👨‍💻 Languages
 
@@ -140,7 +138,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Bikaner Techn
 
 </p>
 
----
 
 ## 📱 Mobile Development
 
@@ -156,7 +153,6 @@ Jetpack Compose • XML • Material Design • MVVM
 
 </div>
 
----
 
 ## 🌐 Backend Development
 
@@ -172,8 +168,6 @@ REST APIs • Authentication • JSON
 
 </div>
 
----
-
 ## 🗄 Databases
 
 <p align="center">
@@ -182,7 +176,6 @@ REST APIs • Authentication • JSON
 
 </p>
 
----
 
 ## 🤖 Artificial Intelligence
 
@@ -197,8 +190,6 @@ REST APIs • Authentication • JSON
 | RAG | ⭐⭐⭐⭐☆ |
 
 </div>
-
----
 
 ## 🛠 Tools & Platforms
 
@@ -219,8 +210,6 @@ REST APIs • Authentication • JSON
 ### A collection of projects that reflect my passion for **Mobile Development**, **Artificial Intelligence**, and **Problem Solving**.
 
 </div>
-
----
 
 <table>
 
@@ -377,7 +366,6 @@ My personal developer portfolio.
 
 </table>
 
----
 
 ## 📌 Other Projects
 
@@ -390,7 +378,6 @@ My personal developer portfolio.
 
 </div>
 
----
 
 <div align="center">
 
@@ -398,7 +385,6 @@ My personal developer portfolio.
 
 </div>
 
----
 <!-- ========================================================= -->
 <!--                 GITHUB DASHBOARD v2.0                     -->
 <!-- ========================================================= -->
@@ -411,25 +397,6 @@ My personal developer portfolio.
 
 </div>
 
----
-
-## 📈 GitHub Overview
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Faizan5079&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan5079&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -438,7 +405,6 @@ My personal developer portfolio.
 
 </div>
 
----
 
 ## 📈 Contribution Activity
 
@@ -447,18 +413,6 @@ My personal developer portfolio.
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan5079&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Faizan5079&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -512,7 +466,6 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 
 </div>
 
----
 
 # 💼 Open For
 
@@ -528,7 +481,6 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 
 </div>
 
----
 
 # 💬 Favorite Quote
 
@@ -537,8 +489,6 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 > **"Build. Learn. Share. Repeat."**
 
 </div>
-
----
 
 <div align="center">
 
@@ -552,7 +502,6 @@ If you enjoy my work, consider following me and starring the repositories you fi
 
 </div>
 
----
 
 <div align="center">
 
